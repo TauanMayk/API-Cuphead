@@ -1,3 +1,3 @@
-# Projeto de API da Formula 1
+# Projeto de API de Itens de Cuphead
 
 ## Readme em breve!
