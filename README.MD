@@ -4,7 +4,6 @@ Uma API minimalista feita com **Node.js**, **TypeScript** e **Fastify**, que for
 
 ---
 ## 📸 Preview da API:
-file:///C:/Users/tauan/OneDrive/%C3%81rea%20de%20Trabalho/Documentos/Lightshot/Screenshot_90.png
 
 ## 🚀 Tecnologias Utilizadas
 
