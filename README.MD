@@ -1,13 +1,10 @@
 # 🎮 Projeto de API de Itens de Cuphead
 
-Cuphead Items API
-
 Uma API minimalista feita com **Node.js**, **TypeScript** e **Fastify**, que fornece dados de itens e armas do jogo **Cuphead**.
 
 ---
 ## 📸 Preview da API:
-
-
+file:///C:/Users/tauan/OneDrive/%C3%81rea%20de%20Trabalho/Documentos/Lightshot/Screenshot_90.png
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -28,6 +25,3 @@ Retorna a lista de armas disponíveis no jogo.
 
 ---
 
-🧠 Objetivo
-
-Este projeto foi criado com fins didáticos, com o objetivo de praticar a construção de APIs com Fastify e reforçar conceitos de organização com TypeScript.
