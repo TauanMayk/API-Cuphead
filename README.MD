@@ -4,6 +4,7 @@ Uma API minimalista feita com **Node.js**, **TypeScript** e **Fastify**, que for
 
 ---
 ## 📸 Preview da API:
+<img src="./public/images/preview-API.png"></img>
 
 ## 🚀 Tecnologias Utilizadas
 
